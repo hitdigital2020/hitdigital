@@ -99,5 +99,7 @@ test these workflows across real client accounts before charging clients for the
 - [ ] Siapa akan bina Fasa 1 (staf dalaman / freelancer) dan bila boleh mula.
 - [ ] Bilangan klien aktif sebenar (CLAUDE.md senaraikan 22 klien CF selain 2 servis, + 12 projek PMD
       setakat Okt 2026 — termasuk projek dalaman).
-- [ ] Email domain syarikat dan laman web sedia sebelum mohon.
+- [ ] Laman web https://hitdigital.my/ boleh dibuka dari luar (13 Okt 2026: Claude tak dapat
+      buka — domain tak resolve dari pelayan semakan Claude. Semak DNS / hosting).
+- [ ] Email `@hitdigital.my` aktif (MX, SPF, DKIM, DMARC) dan dipakai untuk login Console.
 - [ ] Login Claude Console guna akaun organisasi syarikat.

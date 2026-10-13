@@ -10,7 +10,8 @@ pada klien, cara kerja atau gaya bahasa. Bahagian bertanda `TODO` perlu diisi.
 - **Mata wang:** Ringgit Malaysia (RM)
 - **Bahasa kerja:** Bahasa Melayu (santai tapi profesional). Istilah pemasaran
   boleh kekal dalam Bahasa Inggeris (ROAS, CTR, CPM, CPC, LPV, hook, CTA).
-- TODO: alamat, nombor WhatsApp rasmi, laman web, logo/warna jenama.
+- **Laman web:** https://hitdigital.my/ (domain email dirancang: `@hitdigital.my`)
+- TODO: alamat, nombor WhatsApp rasmi, logo/warna jenama.
 
 ### Dua bahagian (division)
 
